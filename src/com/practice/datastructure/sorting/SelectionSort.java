@@ -1,4 +1,4 @@
-package com.practice.sorting;
+package com.practice.datastructure.sorting;
 
 public class SelectionSort {
     public static void main(String[] args) {

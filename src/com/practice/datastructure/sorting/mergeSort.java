@@ -1,4 +1,4 @@
-package com.practice.sorting;
+package com.practice.datastructure.sorting;
 
 import java.util.Arrays;
 
